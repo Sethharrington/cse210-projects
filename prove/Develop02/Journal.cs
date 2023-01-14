@@ -8,7 +8,11 @@ public class Journal
         "What was the best part of my day?",
         "How did I see the hand of the Lord in my life today?",
         "What was the strongest emotion I felt today?",
-        "If I had one thing I could do over today, what would it be?"
+        "If I had one thing I could do over today, what would it be?",
+        "What is something you did to help others?",
+        "How are you a better person than yesterday?",
+        "Free writing!",
+        "What made you have fun today?"
         };
     public void UserEntry()
     {

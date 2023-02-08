@@ -1,0 +1,4 @@
+160
+CheckListGoal;Make excercise;3 times a week;40;50;3;1;8/2/2023
+SimpleGoal;Run;10 km;100;True;8/2/2023
+CheckListGoal;Push up;10 today;20;30;10;1;8/2/2023

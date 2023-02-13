@@ -1,0 +1,3 @@
+The idea is to make a program that allows psychologists to apply tests to users. I'll create classes for the user, the psychologist, and the tests and I want to be able to send the questions and receive the results by WhatsApp.
+
+I want to store the info of each user in a file or a simple database. The idea is to enable the psychologist to make tests in a simple way so the users can do them more simply.

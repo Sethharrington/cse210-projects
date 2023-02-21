@@ -1,31 +1,34 @@
 public class Question
 {
-    private string _question;
-    private List<string> _options;
-    private int _answer;
-    private bool _alert;
-    public Question(string question, List<string> options, int answer, bool alert)
+    public int _questionNumber;
+    public string _question;
+    public bool _alert;
+    public int _answer;
+    public bool _negative;
+    public List<string> _options = new List<string>();
+    public Question(int questionNumber, string question, bool alert, bool negative, List<string> options)
     {
+        _questionNumber = questionNumber;
         _question = question;
-        _options = options;
-        _answer = answer;
+        _answer = -1;
         _alert = alert;
+        _negative = negative;
+        _options = options;
     }
     public void PrintQuestion()
     {
         int optionNumber = 1;
-        Console.WriteLine(_question);
+        Console.WriteLine($"{_questionNumber}. {_question}");
         foreach (var option in _options)
         {
-            Console.WriteLine($"{optionNumber++}. {option}");
+            Console.WriteLine($"\t{optionNumber++}. {option}");
         }
         Console.Write("Choose an option: ");
-        SetAnswer();
     }
+
     public void SetAnswer()
     {
-        int userValue = 0;
-        do
+        int userValue = 0;        
         {
             try
             {
@@ -36,7 +39,7 @@ public class Question
             {
                 Console.WriteLine("Please enter a valid option.");
             }
-        } while (userValue < 1 || userValue > _options.Count);
+        }
 
     }
 }

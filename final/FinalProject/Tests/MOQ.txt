@@ -1,0 +1,54 @@
+_options;Nunca
+_options;Raramente
+_options;Algunas Veces
+_options;Frecuentemente
+_options;Casi Siempre
+_questions;1;Me llevo bien con otras personas.;false;true
+_questions;2;Me canso rapidamente.;false;false
+_questions;3;Nada me interesa.;false;false
+_questions;4;Me siento presionado(a) en el trabajo misional.;false;false
+_questions;5;me siento culpable.;false;false
+_questions;6;Me siento de mal humor.;false;false
+_questions;7;No me siento contento con mis socios cercanos.;false;false
+_questions;8;Pienso en quitarme la vida.;false;false
+_questions;9;Me siento debil.;false;false
+_questions;10;Me siento atemorizado(a).;false;false
+_questions;11;Me levanto muy lento cada manana.;false;false
+_questions;12;Encuentro satisfaccion en mi trabajo misional.;false;true
+_questions;13;Soy una persona feliz.;false;true
+_questions;14;Trabajo/estudio demasiado.;false;false
+_questions;15;Me siento inutil.;false;false
+_questions;16;Me preocupan los problemas de la familia.;false;false
+_questions;17;Tengo problemas por que digo cosas inapropriadas.;false;false
+_questions;18;Me siento solo.;false;false
+_questions;19;Discuto Frecuentemente.;false;false
+_questions;20;Me siento querido(a) y necesitado(a).;false;true
+_questions;21;Disfruto de mi tiempo libre.;false;true
+_questions;22;Se me dificulta concentrarme.;false;false
+_questions;23;No tengo esperanza alguna en el futuro.;false;false
+_questions;24;Estoy contento(a) conmigo mismo(a).;false;true
+_questions;25;Tengo pensamientos perturbadores de los que no me puedo deshacer.;false;false
+_questions;26;Me siento compulsion de retirarme de otras personas.;true;false
+_questions;27;Tengo malestar estomacal.;false;false
+_questions;28;No estudio/trabajo tan bien como lo hacia.;false;false
+_questions;29;Mi corazon palpita demasiado.;false;false
+_questions;30;Se me dificulta llevarme bien con mis amigos y conocidos.;false;false
+_questions;31;Estoy satisfecho con mi vida.;false;true
+_questions;32;Tengo tantas cosas para hacer que no puedo terminar lo que comienzo.;false;false
+_questions;33;Siento que algo malo va a ocurrir.;true;false
+_questions;34;Tengo los musculos adoloridos.;false;false
+_questions;35;Me dan temor las areas espsciosas, manejar, estar en buses, metros etc.;false;false
+_questions;36;Me siento nervioso.;false;false
+_questions;37;Mis relaciones con mis seres queridos me satisfacen.;false;true
+_questions;38;Siento que no me va bien en el trabajo misional.;false;false
+_questions;39;Tengo demasiados desacuerdos en el trabajo misional.;false;false
+_questions;40;Siento que algo anda mal con mi mente.;true;false
+_questions;41;Se me dificulta dormir, o no me puedo quedar dormido.;false;false
+_questions;42;Me siento triste o deprimido.;false;false
+_questions;43;Mis relaciones con otros me satisfacen.;false;true
+_questions;44;Siento suficiente enojo como para hacer algo de lo que me arrepienta.;false;false
+_questions;45;Tengo dolor de cabeza.;false;false
+_result;SD;2,3,5,6,8,9,10,11,13,14,15,22,23,24,25,27,29,31,33,34,35,36,40,41,42,45
+_result;IR;1,7,16,17,18,19,20,26,30,37,43
+_result;SR;4,12,14,21,28,32,38,39,44
+_result;Total;1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45
